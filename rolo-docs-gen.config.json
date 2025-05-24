@@ -1,0 +1,7 @@
+{
+  // _abstract: This config controls the Rolo Generate Docs Utility. It specifies where to find command documentation, where to output generated docs, and lets you control the source file name and output extension.
+  // docsDirectory: "/absolute/path/to/rolo-docs/docs/"
+  // sourceDirectory: "/absolute/path/to/rolo/packages/cli/commands/"
+  // sourceFile: "README.md"
+  // outputExtension: ".md"
+}
